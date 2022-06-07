@@ -8,9 +8,9 @@ Screenshot:
 
 ![](http://i.imgur.com/4ysgrgI.png)
 
-Delta from DejaVu Sans Mono:
+Delta from DejaVu Sans Mono (updated):
 
-![](http://i.imgur.com/B46ac0M.png)
+![](https://i.imgur.com/fxFwvw8.png))
 
 - `0` has a slash
 - `*` is centered vertically to align with `+`, `-`, and `=`
